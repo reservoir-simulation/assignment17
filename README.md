@@ -1,6 +1,5 @@
 # Homework Assignment 17
 
-[![Build Status](https://travis-ci.com/PGE323M/assignment17.svg?token=SnMGq692xXXqxzyE6QSj&branch=master)](https://travis-ci.com/PGE323M/assignment17)
 
 Open the [Assignment 17 Jupyter Notebook](assignment17.ipynb) and follow the instructions.
 
@@ -13,5 +12,5 @@ If you would like to check to see if your solution is correct, run the following
 ```
 
 ```bash
->nosetests
+>python test.py
 ```
